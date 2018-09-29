@@ -1,0 +1,2 @@
+Baseline model> final_train_loss: 1.5657511615753175, final_val_loss: 1.620997314453125
+NN model> final_train_loss: 1.0803816795349122, final_val_loss: 1.1844078922271728
